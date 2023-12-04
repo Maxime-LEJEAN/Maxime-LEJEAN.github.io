@@ -1,2 +1,1 @@
-# Maxime-LEJEAN.github.io
-This is a test for creating a website
+This is just a landing page for my various projects
