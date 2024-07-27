@@ -9,37 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Formation
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Doctorant en instrumentation optique, Laboratoire des matériaux Avancés depuis 2023
+* Master de Physique, spécialité Optique et Photonique (Diplomé en 2023) 
+* Licence de Physique (Diplomé en 2021)
 
-Work experience
+Expériences
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Stage de recherche : #1
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Stage de recherche : #2
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Stage de recherche : #3
   
-Skills
+Mes compétences
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Matlab
+* C++
 
 Publications
 ======
@@ -47,18 +35,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Engagement associatif
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Durant ma dernière année de Master de Physique j'ai décider de m'engager pour la diffusion de la science au grand public et pour accroitre la cohésion au sein de la communauté des physiciens. 
+Je me suis pour cela investis dans plusieurs associations et réalisé de nombreux évenements. 

@@ -3,19 +3,16 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Articles de blog"
+    url: /year-archive/
 
-  - title: "Teaching"
+  - title: "Cours"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Simulation numériques"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
+           
+  - title: "Mon CV"
     url: /cv/
     
   - title: "Guide"
