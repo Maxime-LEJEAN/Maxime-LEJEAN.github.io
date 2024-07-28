@@ -1,9 +1,8 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/spectre-electromagnetique.jpg'>"
+excerpt: "La lumière: un spectre électromagnétique : <br/><img src='/images/spectre-electromagnetique.jpg'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. 
-It can be have images or nice text. 
-If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+La lumière est un phénomène physique qui a intrigué de nombreux physiciens et qui a fait débat durant de longues années. 
+Est-elle de nature granulaire ou de nature ondulatoire ? Se propage-t'elle de manière instantanée ? Que nécessite une source pour émettre de la lumière ? 
+Ici je vous montre une description moderne de la lumière, qui as émergé au milieux du XXe siècle basée sur les équations de maxwell quantifié.   
